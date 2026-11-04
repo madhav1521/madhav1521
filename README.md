@@ -16,7 +16,7 @@ I build thoughtful, production-ready web experiences — from polished interface
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer at **TatvaSoft**, building and shipping production web applications for international clients.
+- 💼 Senior Software Engineer, building and shipping production web applications for international clients.
 - 🧩 Full-stack developer working across frontend, backend, APIs, databases, and AWS deployments.
 - 🤖 Enthusiastic about **Generative AI, machine learning, and bringing AI features into useful products**.
 - 🎨 Interested in creative UI/UX, product strategy, and building engaging web experiences with **Three.js**.
@@ -31,7 +31,7 @@ I build thoughtful, production-ready web experiences — from polished interface
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
 
 **AI / ML, Cloud & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
 ## 🚀 Featured Projects
 
@@ -48,6 +48,7 @@ I build thoughtful, production-ready web experiences — from polished interface
 I'm open to connecting about full-stack engineering, AI/ML, creative web development, and product ideas.
 
 - 🌐 Portfolio: [madhav1521.github.io](https://madhav1521.github.io)
+- 🔗 LinkedIn: [linkedin.com/in/madhav-jajal-3092a41b0](https://www.linkedin.com/in/madhav-jajal-3092a41b0)
 - 💻 GitHub: [@madhav1521](https://github.com/madhav1521)
 - 📧 Email: [madhavjajal1521@gmail.com](mailto:madhavjajal1521@gmail.com)
 
